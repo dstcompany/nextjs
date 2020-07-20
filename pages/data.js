@@ -4,6 +4,7 @@ function detailUser() {
   return (
     <div>
       <Container>
+        <h2>Detail Data User</h2>
         <Row>
           <Col> 
           <h2>Andi Kharisma Rachmadian</h2>
